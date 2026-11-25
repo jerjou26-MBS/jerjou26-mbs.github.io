@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jerjou26_mbs.twa",
+        "sha256_cert_fingerprints": ["98:4B:51:FD:DB:E9:3A:D7:A4:02:FB:54:BC:94:FB:1A:C5:F2:1C:89:79:60:AF:FE:6D:A5:B7:3C:A6:2F:0E:B6"]
+      }
+    }]
